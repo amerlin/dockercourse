@@ -12,8 +12,4 @@ docker build .
 docker run <imageId> 
 ```
 
-## Lesson002
-
-## Lesson003
-
 
