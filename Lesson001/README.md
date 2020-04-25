@@ -7,8 +7,10 @@ redis-server
 
 ### Command
 
-```docker build . 
-docker run <imageId>```
+``` 
+docker build . 
+docker run <imageId> 
+```
 
 ## Lesson002
 
